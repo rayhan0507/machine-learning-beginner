@@ -1,4 +1,4 @@
-# jangan langsung salin semua?
+# jangan langsung salin semua
 # jangan ketik di vs code tapi di google colab
 import pandas as pd
 import numpy as np
